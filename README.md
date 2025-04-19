@@ -1,4 +1,4 @@
-#desktop only
+##desktop only
 # Demo Website
 
 Welcome to the **Demo Website** repository! This is a simple static website created to showcase basic HTML, CSS, and JavaScript skills.
