@@ -1,4 +1,4 @@
-# Desktop Only due to some errors
+# 📵Desktop Only due to some errors
 # Demo Website
 
 Welcome to the **Demo Website** repository! This is a simple static website created to showcase basic HTML, CSS, and JavaScript skills.
