@@ -120,7 +120,7 @@ p{
     justify-content: center;
 }
 
-@media (max-width: 1377px) {
+@media (max-width: 1378px) {
     .body {
       flex-direction: column;
       height: 150vh;
